@@ -1,0 +1,25 @@
+Codeception PHP Testing Framework v1.8.0.1
+Powered by PHPUnit 3.7.28 by Sebastian Bergmann.
+
+Unit Tests (15) -------------------------------------------------------------------------------------------
+Trying to test new (CommandParserTest::testNew)                                                       Ok
+Trying to test new with bad command handling (CommandParserTest::testNewWithBadCommandHandling)       Ok
+Trying to test new (RobotTest::testNew)                                                               Ok
+Trying to test robot off table report (RobotTest::testRobotOffTableReport)                            Ok
+Trying to test place command then report (RobotTest::testPlaceCommandThenReport)                      Ok
+Trying to test left command (RobotTest::testLeftCommand)                                              Ok
+Trying to test right command (RobotTest::testRightCommand)                                            Ok
+Trying to test perimeter move command (RobotTest::testPerimeterMoveCommand)                           Ok
+Trying to test new (SquareTest::testNew)                                                              Ok
+Trying to test robot can occupy (SquareTest::testRobotCanOccupy)                                      Ok
+Trying to test new (tableTest::testNew)                                                               Ok
+Trying to test get x max (tableTest::testGetXMax)                                                     Ok
+Trying to test get y max (tableTest::testGetYMax)                                                     Ok
+Trying to test get square (tableTest::testGetSquare)                                                  Ok
+Trying to test negative index get square (tableTest::testNegativeIndexGetSquare)                      Ok
+-----------------------------------------------------------------------------------------------------------
+
+
+Time: 103 ms, Memory: 5.75Mb
+
+OK (15 tests, 70 assertions)
