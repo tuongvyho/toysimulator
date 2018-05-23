@@ -1,0 +1,16 @@
+{
+    "name": "phpreact/toysimalator",
+    "description": "The drone test",
+    "type": "php 7.x",
+    "require": {
+        "phpunit/phpunit": "^7.2@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tuongvy",
+            "email": "tuongvyho116@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
